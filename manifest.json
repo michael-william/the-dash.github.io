@@ -1,7 +1,7 @@
 {
     "name": "dash",
     "short_name": "dash",
-    "start_url": "https://michael-william.github.io/the-dash.github.io/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
