@@ -1,11 +1,11 @@
 {
-    "name": "dash",
-    "short_name": "dash",
+    "name": "the_dash",
+    "short_name": "the_dash",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A new game.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
